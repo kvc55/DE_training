@@ -1,0 +1,24 @@
+
+******************TESTING**************************
+11/13/2022, 19:40:46
+test_add_numbers (__main__.TestCalculator) ... ok
+test_divide_numbers (__main__.TestCalculator) ... ok
+test_multiply_numbers (__main__.TestCalculator) ... ok
+test_subtract_numbers (__main__.TestCalculator) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+
+******************TESTING**************************
+11/13/2022, 20:03:58
+test_add_numbers (__main__.TestCalculator) ... ok
+test_divide_numbers (__main__.TestCalculator) ... ok
+test_multiply_numbers (__main__.TestCalculator) ... ok
+test_subtract_numbers (__main__.TestCalculator) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
