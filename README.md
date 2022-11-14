@@ -24,7 +24,7 @@ Each folder has its README.md file with the execution instructions corresponding
 
 | *Topic*                         | *Activity*  |
 |-------------------------------|-----------|
-| Basic event logging           |:link: [basic_logging](../../../../../C:/Users/karen/Desktop/Prisma_P/unit3_basic_logging)           |
+| Basic event logging           |:link: [basic_logging](https://github.com/kvc55/DE_training/tree/main/unit3_basic_logging)           |
 | Custom event logging          |:link: [custom_logging](../../../../../C:/Users/karen/Desktop/Prisma_P/unit4_custom_logging)           |
 | Event logging with Airflow    |:link: [logging_airflow](../../../../../C:/Users/karen/Desktop/Prisma_P/unit5_logging_airflow)           |
 | Comments in Python            |:link: [comments](../../../../../C:/Users/karen/Desktop/Prisma_P/unit6_comments.py)           |
