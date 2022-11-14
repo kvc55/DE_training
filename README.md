@@ -26,7 +26,7 @@ Each folder has its README.md file with the execution instructions corresponding
 |-------------------------------|-----------|
 | Basic event logging           |:link: [basic_logging](https://github.com/kvc55/DE_training/tree/main/unit3_basic_logging)           |
 | Custom event logging          |:link: [custom_logging](https://github.com/kvc55/DE_training/tree/main/unit4_custom_logging)           |
-| Event logging with Airflow    |:link: [logging_airflow](../../../../../C:/Users/karen/Desktop/Prisma_P/unit5_logging_airflow)           |
+| Event logging with Airflow    |:link: [logging_airflow](https://github.com/kvc55/DE_training/tree/main/unit5_logging_airflow)           |
 | Comments in Python            |:link: [comments](../../../../../C:/Users/karen/Desktop/Prisma_P/unit6_comments.py)           |
 | Doctrings-Sphinx              |:link: [docstrings_sphinx](../../../../../C:/Users/karen/Desktop/Prisma_P/unit7_docstrings_sphinx)           |
 | PEP8                          |:link: [flake8](../../../../../C:/Users/karen/Desktop/Prisma_P/unit8_flake8)           |
