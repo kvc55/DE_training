@@ -35,7 +35,7 @@ Each folder has its README.md file with the execution instructions corresponding
 | Testing-sequence diagram      |:link: [testing_sequence](https://github.com/kvc55/DE_training/tree/main/unit11_testing_sequence)           |
 | Testing documentation         |:link: [testing_txt](https://github.com/kvc55/DE_training/tree/main/unit11_testing_txt)          |
 | Relational databases-DDL      |:link: [sql_ddl](https://github.com/kvc55/DE_training/tree/main/unit13_sql_ddl)           |
-| Relational databases-DML      |:link: [sql_dml](../../../../../C:/Users/karen/Desktop/Prisma_P/unit14_sql_dml)           |
+| Relational databases-DML      |:link: [sql_dml](https://github.com/kvc55/DE_training/tree/main/unit14_sql_dml)           |
 | Database access               |:link: [db_access](../../../../../C:/Users/karen/Desktop/Prisma_P/unit16_db_access)           |
 
 
