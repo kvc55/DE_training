@@ -1,0 +1,8 @@
+2022-11-13T11:10:15-0300 - functions - INFO - unit4_logging2/story.txt - Total rows: 3
+2022-11-13T11:10:15-0300 - functions - INFO - Row 0: 62 words
+2022-11-13T11:10:15-0300 - functions - INFO - Row 1: 79 words
+2022-11-13T11:10:15-0300 - functions - INFO - Row 2: 49 words
+2022-11-13T11:18:18-0300 - functions - INFO - unit4_logging2/resources/story.txt - Total rows: 3
+2022-11-13T11:18:18-0300 - functions - INFO - Row 0: 62 words
+2022-11-13T11:18:18-0300 - functions - INFO - Row 1: 79 words
+2022-11-13T11:18:18-0300 - functions - INFO - Row 2: 49 words
