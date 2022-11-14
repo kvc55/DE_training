@@ -29,7 +29,7 @@ Each folder has its README.md file with the execution instructions corresponding
 | Event logging with Airflow    |:link: [logging_airflow](https://github.com/kvc55/DE_training/tree/main/unit5_logging_airflow)           |
 | Comments in Python            |:link: [comments](https://github.com/kvc55/DE_training/tree/main/unit6_comments)           |
 | Doctrings-Sphinx              |:link: [docstrings_sphinx](https://github.com/kvc55/DE_training/tree/main/unit7_docstrings_sphinx)           |
-| PEP8                          |:link: [flake8](../../../../../C:/Users/karen/Desktop/Prisma_P/unit8_flake8)           |
+| PEP8                          |:link: [flake8](https://github.com/kvc55/DE_training/tree/main/unit8_flake8)           |
 | Exception handling            |:link: [exceptions](../../../../../C:/Users/karen/Desktop/Prisma_P/unit9_exceptions.py)           |
 | Testing                       |:link: [testing](../../../../../C:/Users/karen/Desktop/Prisma_P/unit10_testing)            |
 | Testing-sequence diagram      |:link: [testing_sequence](../../../../../C:/Users/karen/Desktop/Prisma_P/unit11_testing_sequence)           |
