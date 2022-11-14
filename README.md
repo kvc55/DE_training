@@ -31,7 +31,7 @@ Each folder has its README.md file with the execution instructions corresponding
 | Doctrings-Sphinx              |:link: [docstrings_sphinx](https://github.com/kvc55/DE_training/tree/main/unit7_docstrings_sphinx)           |
 | PEP8                          |:link: [flake8](https://github.com/kvc55/DE_training/tree/main/unit8_flake8)           |
 | Exception handling            |:link: [exceptions](https://github.com/kvc55/DE_training/tree/main/unit9_exceptions)           |
-| Testing                       |:link: [testing](../../../../../C:/Users/karen/Desktop/Prisma_P/unit10_testing)            |
+| Testing                       |:link: [testing](https://github.com/kvc55/DE_training/tree/main/unit10_testing)            |
 | Testing-sequence diagram      |:link: [testing_sequence](../../../../../C:/Users/karen/Desktop/Prisma_P/unit11_testing_sequence)           |
 | Testing documentation         |:link: [testing_txt](../../../../../C:/Users/karen/Desktop/Prisma_P/unit11_testing_txt)          |
 | Relational databases-DDL      |:link: [sql_ddl](../../../../../C:/Users/karen/Desktop/Prisma_P/unit13_sql_ddl)           |
