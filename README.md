@@ -37,6 +37,6 @@ Each folder has its README.md file with the execution instructions corresponding
 | Relational databases-DDL      |:link: [sql_ddl](https://github.com/kvc55/DE_training/tree/main/unit13_sql_ddl)           |
 | Relational databases-DML      |:link: [sql_dml](https://github.com/kvc55/DE_training/tree/main/unit14_sql_dml)           |
 | Database access               |:link: [db_access](https://github.com/kvc55/DE_training/tree/main/unit16_db_access)           |
-
+| NoSQL databases               |:link: [nosql](https://github.com/kvc55/DE_training/tree/main/unit18_nosql)           |           
 
 
