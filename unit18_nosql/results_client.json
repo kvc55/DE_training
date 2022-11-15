@@ -1,0 +1,15 @@
+[{
+  "_id": 1,
+  "Name": "Mary",
+  "Bill": "yes"
+},{
+  "_id": 2,
+  "Name": "Peter Adrei",
+  "LastName": "Gomez",
+  "Bill": "yes"
+},{
+  "_id": 3,
+  "Name": "Sara",
+  "City": "Cordoba",
+  "Bill": "yes"
+}]
