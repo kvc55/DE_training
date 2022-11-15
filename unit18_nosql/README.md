@@ -76,7 +76,7 @@ Not only SQL databases: the objective of this activity is to learn the concepts 
 
 ## **Results**
 
-You can export the results as .json files like in this folder. 
+You can export the results as .json files like in this folder..
 
 
 
