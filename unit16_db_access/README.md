@@ -32,7 +32,7 @@ You can take a look at the documentation by navigating to the _build/html folder
 
 What you are going to see:
 
-![Alt text](../../../../../../C:/Users/karen/Desktop/Prisma_P/unit16_db_access/resources/unit16_docstrings.png)
+![Alt text](https://res.cloudinary.com/dtzbq5zlu/image/upload/v1668476419/unit16_docstrings_pacang.png)
 
 
 
