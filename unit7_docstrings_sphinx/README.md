@@ -18,7 +18,7 @@ You can take a look at the documentation by navigating to the _build/html folder
 
 What you are going to see:
 
-![Alt text](../../../../../../C:/Users/karen/Desktop/Prisma_P/unit7_docstrings_sphinx/resources/unit7_docstrings.png)
+![Alt text](https://res.cloudinary.com/dtzbq5zlu/image/upload/v1668476589/unit7_docstrings_hhayeu.png)
 
 
 
