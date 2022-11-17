@@ -38,5 +38,5 @@ Each folder has its README.md file with the execution instructions corresponding
 | Relational databases-DML      |:link: [sql_dml](https://github.com/kvc55/DE_training/tree/main/unit14_sql_dml)           |
 | Database access               |:link: [db_access](https://github.com/kvc55/DE_training/tree/main/unit16_db_access)           |
 | NoSQL databases               |:link: [nosql](https://github.com/kvc55/DE_training/tree/main/unit18_nosql)           |           
-
+| Processing with Pandas        |:link: [pandas_processing](https://github.com/kvc55/DE_training/tree/unit20_data_processing_pandas/unit20_pandas_processing)           |
 
