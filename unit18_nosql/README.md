@@ -76,7 +76,11 @@ Not only SQL databases: the objective of this activity is to learn the concepts 
 
 ## **Results**
 
-You can export the results as .json files like in this folder.
+You can export the results as .json files like in the results folder.
+
+## **Additional**
+
+Another way of doing the activity is to execute the main.py file inside the folder unit18_nosql. This has all the steps described before.
 
 
 

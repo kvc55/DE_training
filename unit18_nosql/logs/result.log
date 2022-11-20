@@ -1,0 +1,12 @@
+   _id                      Name        Author      Genre InStock
+0    1       Alice in Wonderland  Lewis Carrol    Fantasy      No
+1    2  Adventures of Tom Sawyer    Mark Twain  Realistic     NaN
+2    3        A passage to India   E.M.Forster  Realistic     NaN
+   _id         Name Bill LastName     City
+0    1         Mary  Yes      NaN      NaN
+1    2  Peter Adrei  Yes    Gomez      NaN
+2    3         Sara  Yes      NaN  Cordoba
+   _id                      Name      Author      Genre
+0    2  Adventures of Tom Sawyer  Mark Twain  Realistic
+   _id  Name     City Bill
+0    3  Sara  Cordoba  Yes
