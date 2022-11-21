@@ -1,0 +1,62 @@
+    Year               City    Sport      Discipline  NOC            Event Event gender Medal
+0   1952               Oslo  Skating  Figure skating  USA       individual            M  Gold
+1   1952               Oslo  Skating   Speed skating  USA             500m            M  Gold
+2   1952               Oslo   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+3   1952               Oslo   Skiing   Alpine Skiing  USA           slalom            W  Gold
+4   1956  Cortina d'Ampezzo  Skating  Figure skating  USA       individual            M  Gold
+..   ...                ...      ...             ...  ...              ...          ...   ...
+60  2006              Turin   Skiing   Alpine Skiing  USA  Alpine combined            M  Gold
+61  2006              Turin   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+62  2006              Turin   Skiing       Snowboard  USA        Half-pipe            M  Gold
+63  2006              Turin   Skiing       Snowboard  USA        Half-pipe            W  Gold
+64  2006              Turin   Skiing       Snowboard  USA  Snowboard Cross            M  Gold
+
+[65 rows x 8 columns]
+     Year               City    Sport      Discipline  NOC            Event Event gender Medal
+0    1952               Oslo  Skating  Figure skating  USA       individual            M  Gold
+1    1952               Oslo  Skating   Speed skating  USA             500m            M  Gold
+2    1952               Oslo   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+3    1952               Oslo   Skiing   Alpine Skiing  USA           slalom            W  Gold
+4    1956  Cortina d'Ampezzo  Skating  Figure skating  USA       individual            M  Gold
+..    ...                ...      ...             ...  ...              ...          ...   ...
+125  2006              Turin   Skiing   Alpine Skiing  USA  Alpine combined            M  Gold
+126  2006              Turin   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+127  2006              Turin   Skiing       Snowboard  USA        Half-pipe            M  Gold
+128  2006              Turin   Skiing       Snowboard  USA        Half-pipe            W  Gold
+129  2006              Turin   Skiing       Snowboard  USA  Snowboard Cross            M  Gold
+
+[130 rows x 8 columns]
+Empty DataFrame
+Columns: [Year, City, Sport, Discipline, NOC, Event, Event gender, Medal]
+Index: []
+Empty DataFrame
+Columns: [Year, City, Sport, Discipline, NOC, Event, Event gender, Medal]
+Index: []
+    Year               City    Sport      Discipline  NOC            Event Event gender Medal
+0   1952               Oslo  Skating  Figure skating  USA       individual            M  Gold
+1   1952               Oslo  Skating   Speed skating  USA             500m            M  Gold
+2   1952               Oslo   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+3   1952               Oslo   Skiing   Alpine Skiing  USA           slalom            W  Gold
+4   1956  Cortina d'Ampezzo  Skating  Figure skating  USA       individual            M  Gold
+..   ...                ...      ...             ...  ...              ...          ...   ...
+60  2006              Turin   Skiing   Alpine Skiing  USA  Alpine combined            M  Gold
+61  2006              Turin   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+62  2006              Turin   Skiing       Snowboard  USA        Half-pipe            M  Gold
+63  2006              Turin   Skiing       Snowboard  USA        Half-pipe            W  Gold
+64  2006              Turin   Skiing       Snowboard  USA  Snowboard Cross            M  Gold
+
+[65 rows x 8 columns]
+     Year               City    Sport      Discipline  NOC            Event Event gender Medal
+0    1952               Oslo  Skating  Figure skating  USA       individual            M  Gold
+1    1952               Oslo  Skating   Speed skating  USA             500m            M  Gold
+2    1952               Oslo   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+3    1952               Oslo   Skiing   Alpine Skiing  USA           slalom            W  Gold
+4    1956  Cortina d'Ampezzo  Skating  Figure skating  USA       individual            M  Gold
+..    ...                ...      ...             ...  ...              ...          ...   ...
+125  2006              Turin   Skiing   Alpine Skiing  USA  Alpine combined            M  Gold
+126  2006              Turin   Skiing   Alpine Skiing  USA     giant slalom            W  Gold
+127  2006              Turin   Skiing       Snowboard  USA        Half-pipe            M  Gold
+128  2006              Turin   Skiing       Snowboard  USA        Half-pipe            W  Gold
+129  2006              Turin   Skiing       Snowboard  USA  Snowboard Cross            M  Gold
+
+[130 rows x 8 columns]
