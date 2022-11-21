@@ -7,17 +7,18 @@ logger = log_setup.logging.getLogger(__name__)
 
 if __name__ == '__main__':
 
-    # Download, process and upload the information
-   
     logger.info('Initializing process... ')
 
-    csv_path = extract_data()
+    # Download the information
+    file_path = extract_data()
 
-    medals_filtered_df = process_data(csv_path)
+    # Extracts part of the data
+    medals_filtered_df = process_data(file_path)
 
+    # Operations with database
     db_access = Database()
     db_access.create_table()
     db_access.save_data(medals_filtered_df)
     db_access.fetch_info()
-   
+
     logger.info('Process finished')

@@ -1,36 +1,32 @@
-import requests
-from pathlib import Path, WindowsPath
+import pandas as pd
+from urllib.error import HTTPError
 
 from logsetup import log_setup
 
 logger = log_setup.logging.getLogger(__name__)
 
+URL = 'http://winterolympicsmedals.com/medals.csv'
 
-def extract_data() -> WindowsPath:
-    """Downloads .cvs file from URL given.
 
-    :return: Path to .csv file
-    :rtype: WindowsPath
+def extract_data() -> str:
+    """Downloads .cvs file from URL given and saves it as .xlsx file.
+
+    :return: Path to .xlsx file
+    :rtype: str
     """
 
-    url = 'http://winterolympicsmedals.com/medals.csv'
+    file_path = 'downloads/medals.xlsx'
 
-    logger.info('Initializing data extraction...')
-    
-    # Create path to save the .csv file
-    b_path = Path(str(Path(__file__).resolve().parent.parent) + '/downloads')
-    f_path = 'medals.csv'
-    final_path = b_path / f_path
+    try:
+        logger.info('Initializing data extraction...')
 
-    # Create directory
-    b_path.mkdir(parents=True, exist_ok=True)
+        medals_df = pd.read_csv(URL)
+        medals_df.to_excel(file_path, index=False)
+    except HTTPError:
+        logger.error('Error when trying to download file')
+    except Exception as e:
+        logger.error('Something went wrong', e)
+    else:
+        logger.info('Data extraction finished')
 
-    r = requests.get(url).content
-
-    # Save .csv file
-    with open(final_path, 'wb') as file:
-        file.write(r)
-
-    logger.info('Data extraction finished')
-
-    return final_path
+    return file_path
