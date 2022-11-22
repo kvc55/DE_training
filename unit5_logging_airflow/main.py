@@ -31,11 +31,8 @@ dag = DAG(
 
 # Tasks
 @dag.task(task_id="read_top10")
-def read_top10() -> pd.core.frame.DataFrame:
+def read_top10() -> None:
     """Process a dataset and returns countries with most medals.
-
-    :return: countries with most medals
-    :rtype: pd.core.frame.DataFrame
     """
 
     # Read CSV from web
