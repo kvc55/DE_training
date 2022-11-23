@@ -40,4 +40,4 @@ Each folder has its README.md file with the execution instructions corresponding
 | NoSQL databases               |:link: [nosql](https://github.com/kvc55/DE_training/tree/main/unit18_nosql)           |           
 | Data with Pandas              |:link: [data_with_pandas](https://github.com/kvc55/DE_training/tree/main/unit19_data_with_pandas)           |  
 | Pandas processing             |:link: [pandas_processing](https://github.com/kvc55/DE_training/tree/main/unit20_pandas_processing)           |  
-
+| AWS S3 with Airflow           |:link: [aws_s3](https://github.com/kvc55/DE_training/tree/main/unit23_aws_s3)           |
