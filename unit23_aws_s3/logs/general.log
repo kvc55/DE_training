@@ -1,0 +1,4 @@
+2022-11-23 00:18:10,834 - src.extraction - INFO - 20 - File downloaded successfully
+2022-11-23 00:18:12,045 - src.processing - INFO - 20 - Initializing data processing...
+2022-11-23 00:18:12,283 - src.processing - INFO - 20 - Data processing finished
+2022-11-23 00:18:14,759 - src.loading - INFO - 20 - File loaded successfully
